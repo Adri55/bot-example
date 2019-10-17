@@ -1,0 +1,23 @@
+{
+  "name": "bot-example",
+  "version": "1.0.0",
+  "description": "First try for a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adri55/bot-example.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Adri55",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adri55/bot-example/issues"
+  },
+  "homepage": "https://github.com/Adri55/bot-example#readme"
+}
